@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="target10a.svg"
+   sodipodi:docname="10a400p.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.56390993"
-     inkscape:cx="341.36657"
-     inkscape:cy="426.48655"
+     inkscape:cx="174.67329"
+     inkscape:cy="438.89988"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -48,21 +48,21 @@
        inkscape:label="Описание"><tspan
          x="360.59854"
          y="22.220085"
-         id="tspan4"><tspan
+         id="tspan3"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan2">№10а 400м 
+           id="tspan1">№10а 400м 
 </tspan></tspan><tspan
-         x="363.16885"
+         x="367.27042"
          y="115.55346"
-         id="tspan6"><tspan
+         id="tspan8"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan5">Прицел - П</tspan></tspan></text><path
+           id="tspan7">Прицел - 4</tspan></tspan></text><path
        style="fill:#00e025;stroke-width:0.467461;stroke:#000000;stroke-opacity:1"
        d="M 38.976963,146.04208 V 127.8446 h 7.727316 7.727315 v -10.26524 -10.26524 h 17.327923 17.32792 v 4.19941 c 0,3.93355 0.06128,4.19942 0.967893,4.19942 0.895876,0 4.217846,-2.11804 4.57392,-2.91626 0.08586,-0.19247 0.351451,-0.34996 0.590208,-0.34996 0.238755,0 1.53835,-0.77539 2.887986,-1.72309 4.673666,-3.28181 6.338486,-4.34273 6.814766,-4.34273 0.26315,0 0.5487,-0.16167 0.63456,-0.35927 0.17471,-0.40208 5.01355,-3.65276 7.18094,-4.82407 l 1.40497,-0.75928 0.12603,-10.326861 0.12605,-10.32684 h 16.85064 16.85064 v 10.26524 10.265251 h 8.42979 8.4298 v 31.96224 31.96225 H 101.9663 38.976963 Z"
        id="path3"
        inkscape:label="10а" /><g
        id="g5"
-       transform="translate(3.533414,37.371396)"
+       transform="translate(3.533414,25.641538)"
        inkscape:label="Прицел"><path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
          d="m 43.76335,147.30103 v -30.68771 h 48.299797 v 14.67673 h 13.876183 l 0.13342,-14.54331 47.63267,0.13343 0.13342,30.42086 z"
