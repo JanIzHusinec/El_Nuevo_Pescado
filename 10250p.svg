@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="1"
-     inkscape:cx="261.5"
-     inkscape:cy="418.5"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="212.83914"
+     inkscape:cy="357.08892"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -120,7 +120,7 @@
        inkscape:transform-center-y="-0.2668497" />
     <g
        id="g5"
-       transform="translate(1.8318787,30.829349)">
+       transform="translate(2.5802334,45.796442)">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
          d="m 43.76335,147.30103 v -30.68771 h 48.299797 v 14.67673 h 13.876183 l 0.13342,-14.54331 47.63267,0.13343 0.13342,30.42086 z"
