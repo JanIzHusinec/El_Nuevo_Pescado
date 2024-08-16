@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="6100p.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-11.313709"
+     inkscape:cy="209.30361"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="149.89803,367.08884"
+       orientation="1,0"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="118.94639,186.49497"
+       orientation="0,-1"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="49.999015,291.57914"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="99.999064,259.72579"
+       orientation="1,0"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="18.942513,246.99375"
+       orientation="0,-1"
+       id="guide10"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="307.61258"
+       y="-46.394028"
+       width="436.04651"
+       height="134.00819"
+       id="rect5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path1"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="66.864586"
+       cy="111.42387"
+       r="0.048185274" />
+    <circle
+       id="path2"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="109.55158"
+       cy="116.12669"
+       r="0.048185274" />
+    <path
+       style="fill:#00e025;fill-opacity:1;stroke:#000000;stroke-width:0.610549;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 50.111475,155.7038 -0.02695,-73.671787 23.46342,0.0331 0.0104,-38.566705 49.988295,-0.02157 3.7e-4,38.555205 26.30637,-0.0189 0.0127,73.500757 z"
+       id="path3"
+       sodipodi:nodetypes="ccccccccc" />
+    <ellipse
+       style="fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:0.644271;stroke-opacity:1"
+       id="path4"
+       cx="99.405457"
+       cy="96.333076"
+       rx="4.0786185"
+       ry="4.2120433"
+       inkscape:transform-center-x="-0.2668497"
+       inkscape:transform-center-y="-0.2668497" />
+    <g
+       id="g5"
+       transform="translate(1.8318787,40.883516)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         d="m 43.76335,147.30103 v -30.68771 h 48.299797 v 14.67673 h 13.876183 l 0.13342,-14.54331 47.63267,0.13343 0.13342,30.42086 z"
+         id="path1-7"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         d="m 95.932465,131.82375 v -15.21043 h 6.137555 v 15.47728 z"
+         id="path2-9"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-40.49955,16.632537)"
+       id="text5"
+       style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);shape-padding:1.00857;display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
+         x="414.40137"
+         y="-1.2773438"
+         id="tspan6"><tspan
+           style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
+           id="tspan3">№6 100м 
+</tspan></tspan><tspan
+         x="397.0459"
+         y="59.595818"
+         id="tspan8"><tspan
+           style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
+           id="tspan7">Прицел - П </tspan></tspan></text>
+  </g>
+</svg>
