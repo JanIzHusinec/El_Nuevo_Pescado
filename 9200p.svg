@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.56390993"
-     inkscape:cx="211.91327"
-     inkscape:cy="499.1932"
+     inkscape:zoom="0.79748907"
+     inkscape:cx="301.57153"
+     inkscape:cy="574.92951"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -51,17 +51,17 @@
        inkscape:label="Описание"><tspan
          x="396.27304"
          y="22.220085"
-         id="tspan4"><tspan
+         id="tspan3"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan2">№9 200м 
+           id="tspan1">№9 200м 
 </tspan></tspan><tspan
          x="363.16885"
          y="115.55346"
-         id="tspan6"><tspan
+         id="tspan8"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan5">Прицел - П</tspan></tspan></text><g
+           id="tspan7">Прицел - П</tspan></tspan></text><g
        id="g5"
-       transform="translate(4.3343788,78.646683)"
+       transform="translate(4.3343788,97.414456)"
        inkscape:label="Прицел"><path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
          d="m 43.76335,147.30103 v -30.68771 h 48.299797 v 14.67673 h 13.876183 l 0.13342,-14.54331 47.63267,0.13343 0.13342,30.42086 z"
@@ -74,7 +74,7 @@
        style="fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:0.644271;stroke-opacity:1"
        id="path4"
        cx="103.35612"
-       cy="162.51161"
+       cy="166.26517"
        rx="4.0786185"
        ry="4.2120433"
        inkscape:label="Точка" /></g></svg>
