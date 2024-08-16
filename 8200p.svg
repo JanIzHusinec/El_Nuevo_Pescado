@@ -82,8 +82,8 @@
     <ellipse
        style="fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:0.644271;stroke-opacity:1"
        id="path4"
-       cx="67.040077"
-       cy="158.64787"
+       cx="66.506378"
+       cy="150.64238"
        rx="4.0786185"
        ry="4.2120433" />
     <text
@@ -104,7 +104,7 @@
            id="tspan5">Прицел - П</tspan></tspan></text>
     <g
        id="g5"
-       transform="translate(-30.760321,102.76181)"
+       transform="translate(-31.29402,94.756319)"
        inkscape:label="Прицел">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
