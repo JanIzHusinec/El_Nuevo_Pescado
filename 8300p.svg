@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="0.99150697"
-     inkscape:cx="215.32879"
-     inkscape:cy="592.5324"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:zoom="0.49575348"
+     inkscape:cx="-174.48188"
+     inkscape:cy="468.98309"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -83,8 +83,8 @@
     <ellipse
        style="fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:0.644271;stroke-opacity:1"
        id="path4"
-       cx="67.466019"
-       cy="163.76897"
+       cx="67.953941"
+       cy="179.28282"
        rx="4.0786185"
        ry="4.2120433" />
     <text
@@ -105,7 +105,7 @@
            id="tspan7">Прицел - П</tspan></tspan></text>
     <g
        id="g5"
-       transform="translate(-30.741356,79.220125)"
+       transform="translate(-29.498676,121.83292)"
        inkscape:label="Прицел">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"

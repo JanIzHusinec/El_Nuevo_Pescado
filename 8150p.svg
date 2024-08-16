@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="0.99150696"
-     inkscape:cx="54.966836"
-     inkscape:cy="486.63299"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:zoom="0.49575348"
+     inkscape:cx="-168.43049"
+     inkscape:cy="466.96596"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -82,8 +82,8 @@
     <ellipse
        style="fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:0.644271;stroke-opacity:1"
        id="path4"
-       cx="66.695068"
-       cy="141.18427"
+       cx="66.506378"
+       cy="172.52405"
        rx="4.0786185"
        ry="4.2120433" />
     <text
@@ -93,18 +93,18 @@
        style="font-size:74.6667px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
          x="400.84856"
          y="22.220085"
-         id="tspan3"><tspan
+         id="tspan4"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan1">№8 150м 
+           id="tspan2">№8 150м 
 </tspan></tspan><tspan
          x="363.16885"
          y="115.55346"
-         id="tspan8"><tspan
+         id="tspan6"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan7">Прицел - П</tspan></tspan></text>
+           id="tspan5">Прицел - П</tspan></tspan></text>
     <g
        id="g5"
-       transform="translate(-31.620063,60.710096)"
+       transform="translate(-30.916639,120.42754)"
        inkscape:label="Прицел">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
