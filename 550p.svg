@@ -26,7 +26,7 @@
      showguides="true"
      inkscape:zoom="0.70710678"
      inkscape:cx="262.33662"
-     inkscape:cy="252.43712"
+     inkscape:cy="251.02291"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -126,14 +126,19 @@
        style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);shape-padding:1.00857;display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
          x="427.74902"
          y="-1.2773438"
-         id="tspan6"><tspan
+         id="tspan2"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan3">№5 50м 
+           id="tspan1">№5 50м 
 </tspan></tspan><tspan
          x="397.0459"
          y="59.595818"
-         id="tspan8"><tspan
+         id="tspan5"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan7">Прицел - П </tspan></tspan></text>
+           id="tspan4">Прицел - П </tspan></tspan></text>
+    <path
+       style="fill:#00e025;stroke-width:1.41421"
+       d="M 219.2031,330.21887 V 302.6417 H 184.55487 149.90664 V 245.36605 188.0904 l 32.17336,-0.002 c 17.69534,-9.9e-4 59.37929,-0.42281 92.63098,-0.93738 l 60.45763,-0.93559 v 58.21304 58.21303 H 303.34881 271.529 v 18.88443 c 0,10.38644 -0.40885,22.79617 -0.90857,27.57717 l -0.90857,8.69273 h -6.16249 -6.1625 V 330.21887 302.6417 h -12.02082 -12.02081 v 27.57717 27.57716 h -7.07107 -7.07107 z m 35.47915,-35.04424 c 15.28732,-10.30212 8.73928,-32.13091 -9.6384,-32.13091 -9.50803,0 -15.94125,7.3472 -15.94125,18.20604 0,4.02446 1.0707,6.89104 3.77374,10.10342 6.49068,7.71373 14.06139,9.04049 21.80591,3.82145 z"
+       id="path5"
+       transform="scale(0.26458333)" />
   </g>
 </svg>

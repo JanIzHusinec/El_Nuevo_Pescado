@@ -110,15 +110,15 @@
        style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);shape-padding:1.00857;display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
          x="402.37793"
          y="-1.2773438"
-         id="tspan2"><tspan
+         id="tspan9"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan1">№11 750м 
+           id="tspan3">№11 750м 
 </tspan></tspan><tspan
          x="400.94824"
          y="59.595818"
-         id="tspan5"><tspan
+         id="tspan11"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan4">Прицел - 7 </tspan></tspan></text><circle
+           id="tspan10">Прицел - 7 </tspan></tspan></text><circle
        id="circle1"
        style="fill:#000000;stroke:#000000;stroke-width:0.264583"
        cx="33.936981"
@@ -156,12 +156,16 @@
        style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect12);shape-padding:1.00857;display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
          x="402.37793"
          y="-1.2773438"
-         id="tspan7"><tspan
+         id="tspan14"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan6">№11 750м 
+           id="tspan12">№11 750м 
 </tspan></tspan><tspan
          x="400.94824"
          y="59.595818"
-         id="tspan13"><tspan
+         id="tspan16"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan8">Прицел - 7 </tspan></tspan></text></g></svg>
+           id="tspan15">Прицел - 7 </tspan></tspan></text><path
+       style="fill:#00e025;stroke-width:1.41421"
+       d="M 224.85996,369.81685 V 342.23968 H 149.90664 74.953319 v -37.36324 -37.36325 l 27.930721,-29.72923 27.93071,-29.72923 111.76175,-0.0827 c 94.20993,-0.0697 112.21081,0.23185 114.62104,1.92004 2.28698,1.60187 29.56168,30.54444 50.61647,53.71168 l 3.72214,4.0956 v 37.27015 37.27015 H 344.361 277.18586 v 27.57717 27.57716 h -7.07107 -7.07107 v -27.57716 -27.57717 h -12.02081 -12.02082 v 27.57717 27.57716 h -7.07107 -7.07106 z M 258.9455,317.7984 c 6.8228,-4.58337 9.59372,-12.87337 6.77674,-20.27472 -2.4733,-6.49837 -9.7523,-11.85254 -16.11355,-11.85254 -6.59125,0 -13.79302,5.40806 -15.96068,11.98542 -5.22848,15.86478 11.65438,29.30688 25.29749,20.14184 z"
+       id="path8"
+       transform="scale(0.26458333)" /></g></svg>
