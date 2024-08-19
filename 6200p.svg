@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="130mm"
+   height="205mm"
+   viewBox="0 0 130 205"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="0.5"
-     inkscape:cx="-141"
-     inkscape:cy="323"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="294.86353"
+     inkscape:cy="366.98842"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -34,27 +34,27 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <sodipodi:guide
-       position="149.89803,367.08884"
+       position="149.89794,276.0887"
        orientation="1,0"
        id="guide6"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="118.94639,186.49497"
+       position="118.94634,95.494947"
        orientation="0,-1"
        id="guide7"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="49.999015,291.57914"
+       position="49.999006,200.57889"
        orientation="1,0"
        id="guide8"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="99.999064,259.72579"
+       position="99.999077,168.72545"
        orientation="1,0"
        id="guide9"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="18.942513,246.99375"
+       position="18.942496,155.99371"
        orientation="0,-1"
        id="guide10"
        inkscape:locked="false" />
@@ -86,21 +86,21 @@
        r="0.048185274" />
     <path
        style="fill:#00e025;fill-opacity:1;stroke:#000000;stroke-width:0.610549;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 50.111475,155.7038 -0.02695,-73.671787 23.46342,0.0331 0.0104,-38.566705 49.988295,-0.02157 3.7e-4,38.555205 26.30637,-0.0189 0.0127,73.500757 z"
+       d="m 13.816273,159.81975 -0.02695,-73.671786 23.46342,0.0331 0.0104,-38.566705 49.988295,-0.02157 3.7e-4,38.555205 26.306372,-0.0189 0.0127,73.500756 z"
        id="path3"
        sodipodi:nodetypes="ccccccccc" />
     <ellipse
        style="fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:0.644271;stroke-opacity:1"
        id="path4"
-       cx="99.515053"
-       cy="97.290947"
+       cx="63.219852"
+       cy="101.4069"
        rx="4.0786185"
        ry="4.2120433"
        inkscape:transform-center-x="-0.2668497"
        inkscape:transform-center-y="-0.2668497" />
     <g
        id="g5"
-       transform="translate(1.8318787,40.509339)">
+       transform="translate(-34.463323,44.62529)">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
          d="m 43.76335,147.30103 v -30.68771 h 48.299797 v 14.67673 h 13.876183 l 0.13342,-14.54331 47.63267,0.13343 0.13342,30.42086 z"
@@ -114,19 +114,19 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-40.49955,16.632537)"
+       transform="matrix(0.26458333,0,0,0.26458333,-76.794752,20.748488)"
        id="text5"
        style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);shape-padding:1.00857;display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
          x="414.40137"
          y="-1.2773438"
-         id="tspan6"><tspan
+         id="tspan2"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan3">№6 200м 
+           id="tspan1">№6 200м 
 </tspan></tspan><tspan
          x="397.0459"
          y="59.595818"
-         id="tspan8"><tspan
+         id="tspan5"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan7">Прицел - П </tspan></tspan></text>
+           id="tspan4">Прицел - П </tspan></tspan></text>
   </g>
 </svg>
