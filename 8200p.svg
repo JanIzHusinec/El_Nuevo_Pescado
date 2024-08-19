@@ -3,8 +3,8 @@
 
 <svg
    width="130mm"
-   height="280mm"
-   viewBox="0 0 130 280"
+   height="300mm"
+   viewBox="0 0 130 300"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -26,7 +26,7 @@
      showguides="true"
      inkscape:zoom="0.49575348"
      inkscape:cx="-166.41336"
-     inkscape:cy="654.5592"
+     inkscape:cy="493.18867"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -34,17 +34,17 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <sodipodi:guide
-       position="36.558405,102.4321"
+       position="36.558409,121.43212"
        orientation="0,-1"
        id="guide3"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="144.37237,182.1183"
+       position="144.37239,201.11832"
        orientation="0,-1"
        id="guide4"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="99.168022,232.6214"
+       position="99.168015,251.62142"
        orientation="1,0"
        id="guide5"
        inkscape:locked="false" />
@@ -74,6 +74,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect1"
+       width="136.62704"
+       height="305.27606"
+       x="-3.2021964"
+       y="-1.6010982" />
     <path
        style="fill:#00e025;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 23.349351,190.26384 -0.26685,-98.60097 h 21.481395 l -0.26685,-33.756487 41.156831,0.156317 0.20488,34.000445 23.482773,0.26685 0.26685,97.400145 -16.571574,81.05087 -49.137158,0.13094 z"
@@ -93,15 +100,15 @@
        style="font-size:74.6667px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
          x="394.43189"
          y="22.220085"
-         id="tspan3"><tspan
+         id="tspan4"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan1">№8 200м 
+           id="tspan2">№8 200м 
 </tspan></tspan><tspan
          x="363.16885"
          y="115.55346"
-         id="tspan8"><tspan
+         id="tspan6"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan7">Прицел - П</tspan></tspan></text>
+           id="tspan5">Прицел - П</tspan></tspan></text>
     <g
        id="g5"
        transform="translate(-30.760321,140.65447)"

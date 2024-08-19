@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="129mm"
+   height="180mm"
+   viewBox="0 0 129 180"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="9400p.svg"
+   sodipodi:docname="94004.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.56390993"
-     inkscape:cx="258.01993"
-     inkscape:cy="376.83323"
+     inkscape:cx="220.77994"
+     inkscape:cy="421.16655"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -40,28 +40,34 @@
        id="rect5" /></defs><g
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
-     id="layer1"><path
+     id="layer1"><rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect1"
+       width="132.78198"
+       height="185.33176"
+       x="-1.407583"
+       y="-1.8767772" /><path
        style="fill:#008000;stroke:#000000;stroke-width:0.264583"
-       d="m 56.005237,203.08113 v -31.69995 h 13.25474 l 5.54648,-39.35962 v -12.10962 h 15.42733 v -9.45546 h 26.209873 l 0.24882,20.5283 h 14.26613 l 5.26686,40.51747 h 13.29606 v 31.31495 z"
+       d="m 18.000498,169.76834 v -31.69995 h 13.25474 l 5.54648,-39.359626 v -12.10962 h 15.42733 v -9.45546 h 26.20987 l 0.24882,20.5283 h 14.26613 l 5.26686,40.517476 h 13.296062 v 31.31495 z"
        id="path3" /><text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-39.674734,26.093149)"
+       transform="matrix(0.26458333,0,0,0.26458333,-79.087056,25.623955)"
        id="text5"
        style="font-size:74.6667px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkscape:label="Описание"><tspan
          x="394.32251"
          y="22.220085"
-         id="tspan4"><tspan
+         id="tspan3"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan2">№9 400м 
+           id="tspan1">№9 400м 
 </tspan></tspan><tspan
          x="367.27042"
          y="115.55346"
-         id="tspan6"><tspan
+         id="tspan8"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan5">Прицел - 4</tspan></tspan></text><g
+           id="tspan7">Прицел - 4</tspan></tspan></text><g
        id="g5"
-       transform="translate(3.2016435,48.357211)"
+       transform="translate(-34.803096,15.044415)"
        inkscape:label="Прицел"><path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
          d="m 43.76335,147.30103 v -30.68771 h 48.299797 v 14.67673 h 13.876183 l 0.13342,-14.54331 47.63267,0.13343 0.13342,30.42086 z"
@@ -73,8 +79,8 @@
          sodipodi:nodetypes="ccccc" /></g><ellipse
        style="fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:0.644271;stroke-opacity:1"
        id="path4"
-       cx="102.41772"
-       cy="159.47853"
+       cx="64.412979"
+       cy="126.16574"
        rx="4.0786185"
        ry="4.2120433"
        inkscape:label="Точка" /></g></svg>
